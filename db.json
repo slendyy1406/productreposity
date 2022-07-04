@@ -1,0 +1,172 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "type": "backpack",
+            "name": "FRIEND BACKPACK",
+            "price": 350.000,
+            "description":"Được dệt từ sợi vải 1000D Cordura cao cấp siêu nhẹ, hãy để Friend Backpack™ giảm thiểu gánh nặng trên đôi vai và giúp bạn xuống phố với những bước chân nhẹ nhàng.\n Kích thước: 42 x 28 x 16 cm ",
+            "image":"friendbackpack.jpg"
+        },
+        {
+            "id": 2,
+            "type": "backpack",
+            "name": "GLOBAL PACKBACK",
+            "price": 400.000,
+            "description":"Mẫu balo ngay từ khi ra mắt đã được nhiều bạn trẻ đánh giá cao và yêu thích bởi thiết kế độc đáo, tinh tế và những ưu điểm mà nó sở hữu. \n Kích thước: 42 x 28 x 16 cm",
+            "image":"global_backpack.jpg"
+        },
+        {
+            "id": 3,
+            "type": "backpack",
+            "name": "GLOBAL PACKBACK - GRAY",
+            "price": 400.000,
+            "description":"Mẫu balo ngay từ khi ra mắt đã được nhiều bạn trẻ đánh giá cao và yêu thích bởi thiết kế độc đáo, tinh tế và những ưu điểm mà nó sở hữu. \n Kích thước: 42 x 28 x 16 cm",
+            "image":"global_backpack_gray.jpg"
+        },
+        {
+            "id": 4,
+            "type": "backpack",
+            "name": "MODERN BACKPACK",
+            "price": 370.000,
+            "description":"modern_backpack.jpeg",
+            "image":""
+        },
+        {
+            "id": 5,
+            "type": "backpack",
+            "name": "MODERN BACKPACK - GRAY",
+            "price": 370.000,
+            "description":"Được cho ra mắt sau khoảng thời gian dài nghiên cứu và phát triển, Modern Backpack™ thật sự là sản phẩm tâm huyết nhất của toàn đội ngũ Camelia Brand.\nKích thước: 42 x 28 x 16 cm",
+            "image":"modern_backpack_gray.jpeg"
+        },
+        {
+            "id": 6,
+            "type": "backpack",
+            "name": "BASIC BACKPACK",
+            "price": 350.000,
+            "description":"Lớp đệm chống sốc đặc biệt ở quai và lưng balo tạo cho bạn cảm giác thoải mái nhất khi sử dụng. Basic Backpack™ hoàn toàn xứng đáng với danh hiệu best-seller tại Camelia Brand!\nKích thước: 42 x 29 x 15 cm",
+            "image":"basicbp.jpg"
+        },
+        {
+            "id": 7,
+            "type": "backpack",
+            "name": "BASIC BACKPACK - GRAY",
+            "price": 350.000,
+            "description":"Lớp đệm chống sốc đặc biệt ở quai và lưng balo tạo cho bạn cảm giác thoải mái nhất khi sử dụng. Basic Backpack™ hoàn toàn xứng đáng với danh hiệu best-seller tại Camelia Brand!\nKích thước: 42 x 29 x 15 cm",
+            "image":"basicbp_gray.jpg"
+        },
+        {
+            "id": 8,
+            "type": "wallet",
+            "name": "BUTTON WALLET",
+            "price": 420.000,
+            "description":"Điểm nổi bật của chiếc ví “ Button Wallet – Đứng” là chi tiết nút bấm được thiết kế độc đáo, tạo cho chiếc ví một điểm nhấn trông rất hiện đại và giúp bạn có thể giữ chiếc ví được chắc chắn hơn khi đựng nhiều đồ bên trong.\nChất liệu: Vải Polyester Canvas chống thấm nước",
+            "image":"btnWL.jpg"
+        },
+        {
+            "id": 9,
+            "type": "wallet",
+            "name": "BUTTON WALLET - YELLOW",
+            "price": 420.000,
+            "description":"Điểm nổi bật của chiếc ví “ Button Wallet – Đứng” là chi tiết nút bấm được thiết kế độc đáo, tạo cho chiếc ví một điểm nhấn trông rất hiện đại và giúp bạn có thể giữ chiếc ví được chắc chắn hơn khi đựng nhiều đồ bên trong.\nChất liệu: Vải Polyester Canvas chống thấm nước",
+            "image":"btnWL_yellow.jpg"
+        },
+        {
+            "id": 10,
+            "type": "wallet",
+            "name": "CLASSIC WALLET",
+            "price": 320.000,
+            "description":"Dáng dấp cổ điển nhưng đã có nhiều sự cải tiến - Classic XL Wallet™ dễ dàng chinh phục tất cả bởi kích thước thoải mái để chứa đựng nhiều tiền mặt cùng phần thiết kế phân tầng thông minh và tinh xảo bên trong.\nKích thước: 11 x 9 cm",
+            "image":"classicWL.jpg"
+        },
+        {
+            "id": 11,
+            "type": "wallet",
+            "name": "CLASSIC WALLET - WHITE",
+            "price": 320.000,
+            "description":"Dáng dấp cổ điển nhưng đã có nhiều sự cải tiến - Classic XL Wallet™ dễ dàng chinh phục tất cả bởi kích thước thoải mái để chứa đựng nhiều tiền mặt cùng phần thiết kế phân tầng thông minh và tinh xảo bên trong.\nKích thước: 11 x 9 cm",
+            "image":"classicWL_white.jpg"
+        },
+        {
+            "id": 12,
+            "type": "wallet",
+            "name": "CROSSLINE WALLET",
+            "price": 360.000,
+            "description":" New Collection 2021 - CROSSLINE WALLET là một trong những mẫu tâm đắc nhất trong thiết kế của Camelia với đường thẳng đối màu phối ngang tinh tế tạo nên một chiếc ví cá tính và nổi bật trên nền phong cách Minimalism.\nKích thước: 11 x 9 cm",
+            "image":"crosslineWL.jpg"
+        },
+        {
+            "id": 13,
+            "type": "wallet",
+            "name": "CROSSLINE WALLET - YELLOW",
+            "price": 360.000,
+            "description":" New Collection 2021 - CROSSLINE WALLET là một trong những mẫu tâm đắc nhất trong thiết kế của Camelia với đường thẳng đối màu phối ngang tinh tế tạo nên một chiếc ví cá tính và nổi bật trên nền phong cách Minimalism.\nKích thước: 11 x 9 cm",
+            "image":"crosslineWL_yellow.jpg"
+        },
+        {
+            "id": 14,
+            "type": "wallet",
+            "name": "LONG WALLET",
+            "price": 450.000,
+            "description":"Mang trên mình thiết kế đơn giản nhưng chính phần chất liệu cao cấp, bền bỉ bao phủ toàn bộ sản phẩm khiến The Long Wallet™ trở nên lịch lãm và tinh tế vô cùng khi nằm trên tay của bạn.\nKích thước: 19 x 9.5 cm",
+            "image":"longwl.jpg"
+        },
+        {
+            "id": 15,
+            "type":"wallet" ,
+            "name": "LONG WALLET - RED",
+            "price": 450.000,
+            "description":"Mang trên mình thiết kế đơn giản nhưng chính phần chất liệu cao cấp, bền bỉ bao phủ toàn bộ sản phẩm khiến The Long Wallet™ trở nên lịch lãm và tinh tế vô cùng khi nằm trên tay của bạn.\nKích thước: 19 x 9.5 cm",
+            "image":"longwl_red.jpg"
+        },
+        {
+            "id": 16,
+            "type": "bag",
+            "name": "MESSENGER BAG",
+            "price": 520.000,
+            "description":"Messenger Bag™ sở hữu chất liệu Canvas mỏng nhẹ, đứng form cùng thiết kế năng động, giúp bạn dễ dàng mang theo hàng ngày. Túi cho phép bạn đựng vừa khổ A4, bình nước, ví, điện thoại, sạc và các phụ kiện khác một cách ngăn nắp.\nKích thước: 36 x 25 x 6 cm",
+            "image":"messenbag.jpg"
+        },
+        {
+            "id": 17,
+            "type": "bag",
+            "name": "MESSENGER BAG - GRAY",
+            "price": 520.000,
+            "description":"Messenger Bag™ sở hữu chất liệu Canvas mỏng nhẹ, đứng form cùng thiết kế năng động, giúp bạn dễ dàng mang theo hàng ngày. Túi cho phép bạn đựng vừa khổ A4, bình nước, ví, điện thoại, sạc và các phụ kiện khác một cách ngăn nắp.\nKích thước: 36 x 25 x 6 cm",
+            "image":"messenbag_gray.jpg"
+        },
+        {
+            "id": 18,
+            "type": "bag",
+            "name": "SLIM BAG",
+            "price": 270.000,
+            "description":"Slim Bag™ đến từ Camelia Brand tự hào là chiếc túi chéo có chất vải êm ái nhất, bền bỉ nhất, trượt nước tuyệt đối. Kết hợp cùng với thiết kế đặc biệt không kén người dùng và tone màu trung tính dễ dàng phối hợp với cả tủ đồ.\nKích thước: 23 x 13 x 6 cm",
+            "image":"slimbag.jpg"
+        },
+        {
+            "id": 19,
+            "type": "bag",
+            "name": "SLIM BAG - GRAY",
+            "price": 270.000,
+            "description":"Slim Bag™ đến từ Camelia Brand tự hào là chiếc túi chéo có chất vải êm ái nhất, bền bỉ nhất, trượt nước tuyệt đối. Kết hợp cùng với thiết kế đặc biệt không kén người dùng và tone màu trung tính dễ dàng phối hợp với cả tủ đồ.\nKích thước: 23 x 13 x 6 cm",
+            "image":"slimbag_gray.jpg"
+        },
+        {
+            "id": 20,
+            "type": "bag",
+            "name": "SQUARE BAG",
+            "price": 790.000,
+            "description":"Thấu hiểu tâm lý và nhu cầu của người dùng về 1 chiếc túi nhỏ tiện lợi, Square Bag™ được cho ra đời và đã nhận được sự đón nhận rất tích cực, trở thành mẫu túi được yêu thích nhất tại Camelia Brand.\nKích thước: 17 x 16 x 6 cm",
+            "image":"squarebag.jpg"
+        },
+        {
+            "id": 21,
+            "type": "bag",
+            "name": "SQUARE BAG - GRAY",
+            "price": 790.000,
+            "description":"Thấu hiểu tâm lý và nhu cầu của người dùng về 1 chiếc túi nhỏ tiện lợi, Square Bag™ được cho ra đời và đã nhận được sự đón nhận rất tích cực, trở thành mẫu túi được yêu thích nhất tại Camelia Brand.\nKích thước: 17 x 16 x 6 cm",
+            "image":"squarebag_gray.jpg"
+        }
+    ]
+}
